@@ -20,24 +20,16 @@ Relatório prático sobre testes de ataques de força bruta utilizando a ferrame
 
 ## 📊 Resultados
 ✅ Credenciais fracas identificadas com sucesso
-
 ✅ Serviços vulneráveis expostos
-
 ✅ Demonstração da eficácia de ataques de força bruta
-
 ✅ Acesso obtido em serviços FTP e SMB
-
 ✅ Enumeração de shares Samba bem-sucedida
 
 ## 🛡️ Medidas de Mitigação
 🔒 Implementar políticas de senha forte
-
 ⚠️ Configurar bloqueio de conta após tentativas falhas
-
 🔐 Utilizar autenticação multifator (MFA)
-
 📊 Monitorar logs de acesso
-
 🌐 Restringir acesso por rede (firewall)
 
 ## ⚡ Comandos Principais
